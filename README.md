@@ -21,7 +21,7 @@ If you use Letterboxd you probably know what this project is about. If not...
 
 Follow other people to discuss or discover new games, or you can be a lone wolf and use it as a personal gaming journal.  
   
-The project is still in early development. If you have any suggestions, [file an issue](https://github.com/danielgrijalva/overworld/issues/new/choose) or even better, [start contributing](https://overworld.gitbook.io/docs/v/documentation/getting-started/contributing)!
+The project is still in early development. If you have any suggestions, [file an issue](https://github.com/danielgrijalva/overworld/issues/new/choose) or even better, [start contributing](https://overworld-docs.readthedocs.io/en/latest/getting-started/contributing/)!
 
 ### Inspiration
 
@@ -29,11 +29,11 @@ Overworld is _heavily_ inspired by [Letterboxd](https://letterboxd.com/), both i
 
 ## Contributing
 
-Head over to the [contributing guidelines](https://overworld.gitbook.io/docs/v/documentation/getting-started/contributing) for more details.
+Head over to the [contributing guidelines](https://overworld-docs.readthedocs.io/en/latest/getting-started/contributing/) for more details.
 
 ### Documentation
 
-For a detailed guide of Overworld's development, take a look at the [documentation](https://overworld.gitbook.io/docs/v/documentation/) :sparkles:
+For a detailed guide of Overworld's development, take a look at the [documentation](https://overworld-docs.readthedocs.io/en/latest/?) :sparkles:
 
 ## Features
 
